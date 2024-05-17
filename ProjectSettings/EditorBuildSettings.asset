@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2254d3e081bb9a046914af809695b86f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 826024c7d8d90294494829e0a384779c
+  - enabled: 1
+    path: Assets/Scenes/Kidnapping.unity
+    guid: 94f8551deb2b3fd4889821992bf02f4f
+  - enabled: 1
+    path: Assets/Scenes/Decison.unity
+    guid: 578b3af63f3cb4a4386326c6047406c0
+  - enabled: 1
+    path: Assets/Scenes/Cabin.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CabinInterior.unity
+    guid: dfacd3dddb7f3db42b7c9f2bf6b1565e
+  - enabled: 1
+    path: Assets/Scenes/OpenScene.unity
+    guid: 393a177a050cf0f4bb8b3c3b8be7eaea
+  - enabled: 1
+    path: Assets/Scenes/InventoryPlaceholder.unity
+    guid: 7aec19236fab5144d9e691239f9d90f2
+  - enabled: 1
+    path: Assets/Scenes/HeavenEndScene.unity
+    guid: a8830d4dce70e2045a015a54388d959a
+  - enabled: 1
+    path: Assets/Scenes/HellEndScene.unity
+    guid: 2539f55fe208a4843b76e041df3f28c6
+  m_configObjects: {}
